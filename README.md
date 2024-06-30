@@ -2,13 +2,9 @@
 
 ###
 
-<br clear="both">
-
 <h4 align="left">Conecte-se comigo</h4>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <a href="https://www.linkedin.com/in/julio-fonseca-pfs/" target="_blank">
