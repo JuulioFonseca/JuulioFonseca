@@ -1,8 +1,4 @@
-<img align="right" height="261" src="https://cdna.artstation.com/p/assets/covers/images/046/203/830/smaller_square/luis-dasilva-luis-dasilva-finalsquare.jpg?1644529346"  />
-
-###
-
-<h4 align="left">Tenho experiência no setor de desenvolvimento e administrativo desde 2018. Gosto de participar de todo o processo de desenvolvimento, utilizando metodologias ágeis, e estou sempre aberto a feedbacks e discussões para melhorar o processo a cada dia. Com conhecimento em Pyton, Java e C/C++, e recentemente, tenho me interessado em especializar no desenvolvimento Back-end e Banco de Dados. Meu perfil é criativo e busco trazer mudanças com resultados estratégicos e analíticos, além de ter capacidade de planejamento e vivência com a metodologia Scrum e suas cerimônias.</h4>
+<p align="left">Tenho experiência no setor de desenvolvimento e administrativo desde 2018. Gosto de participar de todo o processo de desenvolvimento, utilizando metodologias ágeis, e estou sempre aberto a feedbacks e discussões para melhorar o processo a cada dia. Com conhecimento em Pyton, Java e C/C++, e recentemente, tenho me interessado em especializar no desenvolvimento Back-end e Banco de Dados. Meu perfil é criativo e busco trazer mudanças com resultados estratégicos e analíticos, além de ter capacidade de planejamento e vivência com a metodologia Scrum e suas cerimônias.</p>
 
 ###
 
