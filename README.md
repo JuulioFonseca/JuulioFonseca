@@ -22,7 +22,7 @@
 
 > **SAP HANA** · **SQL (avançado)** · **Excel (avançado)** · **PostgreSQL** · **MySQL** · **Python (básico)**
 
-### 🔗 Conecte-se comigo
+### Conecte-se comigo
 
 <div align="left">
   <a href="https://www.linkedin.com/in/julio-fonseca-pfs/" target="_blank">
