@@ -8,9 +8,6 @@
   Atualmente compartilhando projetos e relatórios em SQL com foco em dados — construindo um portfólio real, baseado em problemas reais.
 </p>
 
-
-### 🛠️ Stack & Ferramentas
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" title="PostgreSQL"/>
   <img width="12" />
@@ -24,17 +21,6 @@
 <br>
 
 > **SAP HANA** · **SQL (avançado)** · **Excel (avançado)** · **PostgreSQL** · **MySQL** · **Python (básico)**
-
----
-
-### 📊 Estatísticas GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuulioFonseca&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=JuulioFonseca&locale=pt-br&mode=daily&theme=apprentice&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-</div>
-
----
 
 ### 🔗 Conecte-se comigo
 
